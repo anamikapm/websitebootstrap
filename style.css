@@ -1,0 +1,139 @@
+nav {
+ background-image: url(../8.jpg);   
+ height: 100vh;
+}
+
+
+
+.home-txt {
+    text-align: center;
+    padding-top: 250px;
+}
+.about{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+.text{
+    background:url(../1.jpg)no-repeat left;
+    background-size: 55%;
+    overflow: hidden;
+    padding: 100px 0;
+    
+
+}
+.align{
+    width: 55%;
+    float: right;
+    background-color: grey;
+    padding: 150px;
+
+}
+.align h1{
+    margin-bottom:30px;
+    font-size: 30px;
+    font-weight: 900;
+
+}
+p{
+    font-size: 13px;
+    color: black;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+
+}
+.container{
+    max-width: 100%;
+    margin: auto;
+    background:gainsboro;
+    overflow: auto;
+}
+.container h5{
+    margin-top:40px;
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-weight: 900;
+}
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 390px;
+    
+    
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+
+    
+}
+.contact{
+    position: relative;
+    display: flex;
+    min-height:100vh;
+    justify-content: center;
+    align-items: center;
+     background-color:grey;
+     
+     
+     
+    
+}
+.contactinfo{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:grey;
+    min-width:100;
+   
+    
+}
+.contactinfo h4{ 
+    margin-top:5%;
+     margin-bottom: 10%;
+    font-size: 50px;
+    font-weight: 900;
+    align-items: center;
+    justify-content: center;
+    padding-left: 50%;
+   
+   
+
+}
+
+
+.contactform{
+    width:55%;
+    float: right;
+    padding: 50%;
+    margin-top: 20%;
+   
+}
+
+
+
+  .icon{
+   width:20%;
+       height:20%;
+    font-size:22px;
+   justify-content:center;
+    align-items:center;
+     background: #ccc;
+     border-radius:50% ;
+     padding-left:5%;
+    
+    
+   
+}
+
+
+
+
+
+    
+    
